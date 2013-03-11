@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="fredericojssilva/Balele/htc/saga" path="device/htc/saga" remote="github" />
+  <project name="fredericojssilva/Balele/htc/msm7x30-common" path="device/htc/msm7x30-common" remote="github" />
+  <project path="kernel/htc/msm7x30-3.0" name="Andromadus/htc7x30-3.0" remote="github" revision="andromadus" />
+</manifest>
